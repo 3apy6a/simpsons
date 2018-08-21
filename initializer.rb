@@ -1,0 +1,5 @@
+require './models/character'
+require './models/distance_calculator'
+require './models/answer'
+require 'faker'
+require 'geocoder'
